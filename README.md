@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Tensorflow**
 
-- 💬 Ask me about **Node JS., tensor flow**
+- 💬 Ask me about ** Machine learning , DSA **
 
 - 📫 How to reach me **ghoshprem2003@gmail.com**
 
