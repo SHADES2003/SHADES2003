@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://SHADES2003.io)
+![MasterHead](media/jinx_banner.png)(https://SHADES2003.io)
 <h1 align="center">Hi 👋, I'm Prem Ghosh. Aspiring SDE and passionate about AI-ML.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png"
@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shades2003&show_icons=true&locale=en" alt="shades2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shades2003&" alt="shades2003" /></p>
-<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=pra-sen-jit&theme=github&hide_border=false&custom_title=My%20Contribution%20Graph" alt="contribution graph" />
+<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=SHADES2003&theme=github&hide_border=false&custom_title=My%20Contribution%20Graph" alt="contribution graph" />
